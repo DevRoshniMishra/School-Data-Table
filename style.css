@@ -1,0 +1,30 @@
+body {
+    background-color: #004C70 !important;
+}
+
+.table tr {
+    cursor: pointer;
+}
+
+.table {
+    background-color: #fff !important;
+}
+
+.hedding h1 {
+    color: #fff;
+    font-size: 25px;
+}
+
+.main-section {
+    margin-top: 120px;
+}
+
+.hiddenRow {
+    padding: 0 4px !important;
+    background-color: #eeeeee;
+    font-size: 13px;
+}
+
+.accordian-body span {
+    color: #a2a2a2 !important;
+}
